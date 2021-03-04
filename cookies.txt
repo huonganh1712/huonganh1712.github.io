@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.gridbootstrap.com	TRUE	/	FALSE	1999999999	__cfduid	dc70b56d2ac06c45b34ae842f32344ae91614874550
+html.gridbootstrap.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

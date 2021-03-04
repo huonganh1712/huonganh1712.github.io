@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Thu, 04 Mar 2021 23:15:50 at https://html.gridbootstrap.com/adrion/index3.html /
+(httrack https://html.gridbootstrap.com/adrion/index3.html -o / )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:17:35	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/img/cbp-sprite.png (from https://html.gridbootstrap.com/adrion/css/cubeportfolio.min.css)
+23:17:40	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/blog-Masonry.html (from https://html.gridbootstrap.com/adrion/index1.html)
+23:17:40	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/blog-Masonry1.html (from https://html.gridbootstrap.com/adrion/index1.html)
+23:17:40	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/blog-Masonry2.html (from https://html.gridbootstrap.com/adrion/index1.html)
+23:17:40	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/popper.js (from https://html.gridbootstrap.com/adrion/js/bootstrap.min.js)
+23:17:40	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/GET (from https://html.gridbootstrap.com/adrion/js/particles.min.js)
+23:17:40	Error: 	"Not Found" (404) at link https://html.gridbootstrap.com/adrion/Error pJS - No image.src (from https://html.gridbootstrap.com/adrion/js/particles.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 50 seconds : 100 links scanned, 92 files written (5923319 bytes overall) [4598818 bytes received at 41807 bytes/sec], 2122422 bytes transferred using HTTP compression in 65 files, ratio 32%, 20.0 requests per connection
+(7 errors, 0 warnings, 0 messages)
